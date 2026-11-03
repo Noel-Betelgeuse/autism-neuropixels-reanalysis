@@ -1,0 +1,41 @@
+# Raw recordings and large derived data
+*.bin
+*.cbin
+*.ch
+*.npy
+*.npz
+*.mat
+*.abf
+*.zip
+*.tar
+*.tar.gz
+*.h5
+*.hdf5
+*.parquet
+*.pkl
+*.pickle
+*.mp4
+*.avi
+*.mov
+
+# Secrets and personal information
+.env
+.env.*
+credentials.json
+*token*
+*.pem
+
+# Python and notebooks
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.pytest_cache/
+.DS_Store
+
+# Local outputs
+raw_data/
+processed_data/
+results/
+figures/
+cache/
