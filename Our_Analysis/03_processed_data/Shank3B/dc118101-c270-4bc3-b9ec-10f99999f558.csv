@@ -1,0 +1,2 @@
+subject,genotype,eid,pid,probe,cluster_id,original_region,region,duration_s,n_spikes,fr_hz,mean_isi_ms,cv_isi,cv2,logisi_threshold_ms,burst_rate_min,burst_fraction_pct,burst_duration_ms,spikes_per_burst,intraburst_hz,interburst_interval_s
+SH012,Shank3B,110de25e-4eed-4ec8-804a-b77d17635c3a,dc118101-c270-4bc3-b9ec-10f99999f558,probe00,454,VL,NON_NEURAL,5098.589217331254,31958,6.268008391687558,159.48635059048522,1.6160932489515818,0.8642253763773656,100.0,36.86902238780359,59.55942174103511,201.74880725324348,6.075327162464092,32.766534501933144,1.41873810974272
