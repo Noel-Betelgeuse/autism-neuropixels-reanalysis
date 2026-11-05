@@ -1,0 +1,2 @@
+subject,genotype,eid,pid,probe,cluster_id,original_region,region,duration_s,n_spikes,fr_hz,mean_isi_ms,cv_isi,cv2,logisi_threshold_ms,burst_rate_min,burst_fraction_pct,burst_duration_ms,spikes_per_burst,intraburst_hz,interburst_interval_s
+CSP018,Cntnap2,bad413bd-6e5a-4532-937d-eeefa6b08515,39013088-1388-4ee5-ae4b-7c8f9710d2c6,probe00,163,ccb,NON_NEURAL,5506.397616414331,19449,3.5320732999780797,283.1136785412795,1.8663785580042043,1.1531441644996445,100.0,22.22868897718736,42.70656589027713,99.83201364913816,4.07156862745098,45.22105378014636,2.592393968606601
