@@ -1,0 +1,2 @@
+subject,genotype,eid,pid,probe,cluster_id,original_region,region,duration_s,n_spikes,fr_hz,mean_isi_ms,cv_isi,cv2,logisi_threshold_ms,burst_rate_min,burst_fraction_pct,burst_duration_ms,spikes_per_burst,intraburst_hz,interburst_interval_s
+FMR028,Fmr1,03ab27ed-3a61-4aa9-b78a-abd6dec138ce,4ed2ff20-376d-4074-9244-9b6b9205dfdc,probe00,204,HPF,UNRESOLVED_HPF,4342.047917294211,1516,0.3491440050584955,2669.3590670270846,2.5713999388049467,1.2610144487160702,100.0,2.100391376077493,44.9868073878628,97.5762090333886,4.4868421052631575,40.43834292942805,22.515626298154757
