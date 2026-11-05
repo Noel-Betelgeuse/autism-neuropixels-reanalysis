@@ -2,7 +2,7 @@
 
 An independent, reproducible Python reanalysis of publicly accessible electrophysiology and behavioral data associated with Noel et al. (2025), *A common computational and neural anomaly across mouse models of autism*, Nature Neuroscience. DOI: https://doi.org/10.1038/s41593-025-01965-8.
 
-> **Status:** Project setup and data-access verification. No independent results are claimed yet.
+> **Status:** Preliminary anatomical coverage inventory completed; quantitative genotype comparisons have not yet been performed.
 
 ## Original study
 
@@ -46,14 +46,37 @@ An independent, reproducible Python reanalysis of publicly accessible electrophy
 
 Raw Neuropixels recordings and large derived datasets are **not committed to Git**. Data provenance, external dataset identifiers, download procedures, analysis configurations, and derived summary tables will be documented.
 
-## Repository structure
+## Repository structure and working workflow
+
+Google Drive working root: `Jan/Reanalysis/Our_Analysis/`.
+The `Our_Analysis/` directory in this repository mirrors the **analysis** folders on Drive:
+
+```text
+Our_Analysis/
+  00_documentation/
+  01_notebooks/
+    00_pilot_NYU08.ipynb
+    01_dataset_inventory.ipynb
+  02_session_metadata/
+    recovered_24_eligible_regions.csv
+  03_processed_data/
+  04_results/
+  05_figures/
+  06_manuscript/
 ```
-notebooks/00_environment_and_data_access.ipynb
-requirements.txt
-.gitignore
-README.md
-LICENSE
-```
+
+- **Google Drive** contains the actively edited Colab notebooks, checkpoints and analysis data.
+- **GitHub** keeps versioned snapshots of notebooks, code, documentation and small summary tables.
+- **Google Colab** executes analysis. Save persistent outputs directly to Drive, not only under `/content`.
+- GitHub synchronization from Google Drive is **not yet automatic**. Commits must be explicitly made until a tested synchronization process is configured.
+- Large original source data remain outside GitHub in `Jan/Reanalysis/Behaviour`, `data_neurons` and `Code`, or on IBL servers.
+- `recovered_24_eligible_regions.csv` was reconstructed from a Colab execution log. It is a preliminary inclusion inventory, not a substitute for the per-insertion QC database.
+
+## Getting started
+
+1. Open the Drive copy of `Our_Analysis/01_notebooks/01_dataset_inventory.ipynb` in Colab.
+2. Mount Google Drive and load small saved CSV tables from `Our_Analysis/02_session_metadata/`.
+3. Save outputs and checkpoints to Drive as computations progress; periodically sync code to GitHub.
 
 ## Reproducibility and attribution
 - All code and prose in this repository are written in English.
