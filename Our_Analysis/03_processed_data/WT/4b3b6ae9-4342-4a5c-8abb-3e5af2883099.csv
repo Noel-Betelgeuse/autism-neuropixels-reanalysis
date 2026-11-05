@@ -1,0 +1,2 @@
+subject,genotype,eid,pid,probe,cluster_id,original_region,region,duration_s,n_spikes,fr_hz,mean_isi_ms,cv_isi,cv2,logisi_threshold_ms,burst_rate_min,burst_fraction_pct,burst_duration_ms,spikes_per_burst,intraburst_hz,interburst_interval_s
+NYU-52,WT,b72687bf-1452-4c33-8e9e-57d7676d6541,4b3b6ae9-4342-4a5c-8abb-3e5af2883099,probe01,134,VL,NON_NEURAL,4760.408323016129,39564,8.311051766024306,90.21736371630823,1.354791870580941,0.7474308866388755,100.0,60.54942778886983,76.2208067940552,238.96842533514146,6.2772689425478765,24.02941288808155,0.49477436681213005
