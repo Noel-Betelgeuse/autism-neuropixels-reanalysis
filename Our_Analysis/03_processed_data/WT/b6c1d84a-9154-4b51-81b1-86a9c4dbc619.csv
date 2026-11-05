@@ -1,0 +1,2 @@
+subject,genotype,eid,pid,probe,cluster_id,original_region,region,duration_s,n_spikes,fr_hz,mean_isi_ms,cv_isi,cv2,logisi_threshold_ms,burst_rate_min,burst_fraction_pct,burst_duration_ms,spikes_per_burst,intraburst_hz,interburst_interval_s
+NYU-57,WT,431012c1-caa6-46aa-a417-44b4bc29121f,b6c1d84a-9154-4b51-81b1-86a9c4dbc619,probe00,329,MOs5,MOs,6868.624964836727,4219,0.6142423005476015,1589.0139181411762,7.268720736059934,0.6457016075732795,56.23413251903522,0.19217820258896282,2.0146954254562695,63.823713095152485,3.8636363636363638,1124.0018290784901,302.79435275276506
