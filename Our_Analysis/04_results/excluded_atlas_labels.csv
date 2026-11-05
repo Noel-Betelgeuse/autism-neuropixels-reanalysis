@@ -1,0 +1,7 @@
+region,WT_animals,Fmr1_animals,Cntnap2_animals,Shank3B_animals,WT_units,Fmr1_units,Cntnap2_units,Shank3B_units,WT_complete_event_mice,Fmr1_complete_event_mice,Cntnap2_complete_event_mice,Shank3B_complete_event_mice,eligible_anatomy,eligible_full_events
+ccb,12.0,12.0,9.0,11.0,431.0,473.0,371.0,300.0,12.0,12.0,9.0,9.0,True,True
+cing,11.0,10.0,9.0,9.0,179.0,228.0,88.0,75.0,11.0,10.0,9.0,8.0,True,True
+MB,12.0,11.0,7.0,11.0,1128.0,1001.0,1087.0,862.0,12.0,11.0,7.0,11.0,True,True
+HPF,11.0,8.0,6.0,5.0,365.0,149.0,61.0,222.0,11.0,8.0,6.0,5.0,True,True
+STR,7.0,8.0,5.0,6.0,87.0,137.0,60.0,78.0,7.0,8.0,5.0,5.0,True,True
+dhc,10.0,12.0,5.0,7.0,307.0,355.0,119.0,168.0,10.0,12.0,5.0,6.0,True,True
