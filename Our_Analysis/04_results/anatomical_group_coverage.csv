@@ -1,0 +1,11 @@
+region_group,subregions,n_subregions,WT_mice_lower_bound,WT_units,WT_event_mice_lower_bound,Fmr1_mice_lower_bound,Fmr1_units,Fmr1_event_mice_lower_bound,Cntnap2_mice_lower_bound,Cntnap2_units,Cntnap2_event_mice_lower_bound,Shank3B_mice_lower_bound,Shank3B_units,Shank3B_event_mice_lower_bound,min_mice_lower_bound,min_event_mice_lower_bound,eligible_all_genotypes
+DG,"DG-mo, DG-sg, DG-po",3,15,1654,15,13,2592,13,13,865,13,13,1552,12,13,12,True
+CA1,CA1,1,13,1134,13,11,1495,11,11,1117,11,14,1879,13,11,11,True
+CA3,CA3,1,11,568,11,10,324,10,10,771,10,9,666,8,9,8,True
+MOs,"MOs2/3, MOs5, MOs6a",3,12,1096,12,12,1519,12,8,986,8,7,979,6,7,6,True
+CP,CP,1,9,822,9,10,890,10,7,807,7,6,1070,5,6,5,True
+MRN,MRN,1,9,2033,9,11,1136,11,6,1280,6,7,796,7,6,6,True
+VISp,"VISp2/3, VISp4, VISp5, VISp6a, VISp6b",5,13,1285,13,11,1174,11,5,594,5,9,1039,9,5,5,True
+SUB,SUB,1,8,808,8,10,1293,10,6,681,6,5,797,5,5,5,True
+VL,VL,1,7,131,7,8,154,8,5,172,5,7,567,6,5,5,True
+APN,APN,1,7,622,7,10,1000,10,5,314,5,7,586,7,5,5,True
