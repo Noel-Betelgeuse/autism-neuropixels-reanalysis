@@ -194,7 +194,7 @@ function gitBlobSha_(bytes) {
 function install15MinuteTrigger() {
   const existing = ScriptApp.getProjectTriggers()
     .filter(t => t.getHandlerFunction() === 'syncToGithub');
-  existing.forEach(ScriptApp.deleteTrigger);
+  existing.forEach(t => ScriptApp.deleteTrigger(t));
   ScriptApp.newTrigger('syncToGithub').timeBased().everyMinutes(15).create();
   console.log('Installed one 15-minute sync trigger.');
 }
@@ -203,6 +203,6 @@ function install15MinuteTrigger() {
 function removeSyncTriggers() {
   ScriptApp.getProjectTriggers()
     .filter(t => t.getHandlerFunction() === 'syncToGithub')
-    .forEach(ScriptApp.deleteTrigger);
+    .forEach(t => ScriptApp.deleteTrigger(t));
   console.log('Synchronization triggers removed.');
 }
