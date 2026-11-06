@@ -1,0 +1,12 @@
+Event,Description,Available trials,Missing trials,First timestamp (s)
+goCueTrigger_times,Go cue command/trigger,767,0,32.88121755785389
+stimOff_times,Visual stimulus offset,767,0,34.43302302003443
+stimOffTrigger_times,Additional event timestamp,767,0,34.37802465098089
+stimOnTrigger_times,Stimulus onset command/trigger,767,0,32.813717237980775
+goCue_times,Auditory go cue,767,0,32.88214479003288
+response_times,Behavioral response time,767,0,33.377919911646096
+stimOn_times,Visual stimulus onset,767,0,32.88104490003288
+feedback_times,Feedback delivery,767,0,33.378028530033376
+firstMovement_times,First detected movement,765,2,33.09403090003385
+trial_start,Start of the trial,767,0,32.187414270032185
+trial_end,End of the trial,767,0,34.93303028106291
