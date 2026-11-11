@@ -1,93 +1,9 @@
-# Neural Response Dynamics Across Genetic Mouse Models of Autism
+# Autism Neuropixels Reanalysis
 
-An independent, reproducible Python reanalysis of publicly accessible electrophysiology and behavioral data associated with Noel et al. (2025), *A common computational and neural anomaly across mouse models of autism*, Nature Neuroscience. DOI: https://doi.org/10.1038/s41593-025-01965-8.
+This repository mirrors **My Drive / Reanalysis**. Source article data are stored in Google Drive; source MATLAB datasets are intentionally not duplicated in GitHub.
 
-> **Status:** Preliminary anatomical coverage inventory completed; quantitative genotype comparisons have not yet been performed.
+- [Article_Source](Article_Source/README.md) — original authors' data, MATLAB code and behavior tables (Drive).
+- [Our_Analysis/Spontaneous](Our_Analysis/Spontaneous/) — completed genotype-independent spontaneous electrophysiology comparisons, original processed data, statistical tables and figures.
+- [Our_Analysis/Behavior_aligned](Our_Analysis/Behavior_aligned/) — state/event-aligned electrophysiology: per-genotype exploration, extraction/cache, heatmap statistics, and common cross-genotype analysis.
 
-## Original study
-
-### Authors' hypothesis
-- Distinct autism-associated genetic mutations may converge on a shared computational abnormality in probabilistic inference and prior updating.
-- This abnormality may be associated with common changes in neural representations of prior expectations and sensory prediction errors.
-
-### What the authors investigated
-- Behavioral adaptation to changing stimulus probabilities in wild-type mice and three mutant models (*Fmr1*, *Cntnap2*, *Shank3B*).
-- Subjective prior updating via computational decision models.
-- Brain-wide Neuropixels recordings and neural representations of priors, sensory information, choices, and unexpected events.
-
-### What the authors reported
-- Reduced flexibility of prior updating across the three mutant models.
-- A relative shift in subjective prior representation from visual toward frontal cortical areas.
-- Altered frontal encoding of deviations from long-run prior expectations.
-- Reduced detectable differentiation of expected and unexpected observations in frontal sensory responses.
-
-## Independent reanalysis
-
-### Hypotheses
-1. Stimulus-evoked response dynamics and trial-to-trial reliability in VISp and ACAd may differ between wild-type and mutant groups.
-2. These differences may be shared across models or genotype-specific.
-3. Electrophysiological response metrics may be associated with behavioral flexibility in prior updating.
-
-### Planned analyses
-- Reproduce selected stimulus-aligned responses to validate alignment, definitions, and data access.
-- Quantify baseline firing, response magnitude, onset latency, and response duration.
-- Estimate trial-level spike-count variability and response reliability where trial-resolved spikes are available.
-- Analyze ISI distributions, CV2, and appropriately defined bursting metrics.
-- Account for stimulus contrast, trial history, behavioral covariates, and animal/session nesting.
-- Compare effects across *Fmr1*, *Cntnap2*, and *Shank3B* cohorts.
-
-**All analyses are exploratory until an analysis plan and inclusion criteria have been frozen.** Neurons from the same mouse/session are not independent biological replicates.
-
-## Data provenance
-- Study and data instructions: https://osf.io/fap2s/
-- International Brain Laboratory ONE: https://int-brain-lab.github.io/ONE/
-- Behavioral model code: https://github.com/int-brain-lab/ibl-changepoint
-- Encoding model code: https://github.com/BalzaniEdoardo/PGAM
-
-Raw Neuropixels recordings and large derived datasets are **not committed to Git**. Data provenance, external dataset identifiers, download procedures, analysis configurations, and derived summary tables will be documented.
-
-## Repository structure and working workflow
-
-Google Drive working root: `Jan/Reanalysis/Our_Analysis/`.
-The `Our_Analysis/` directory in this repository mirrors the **analysis** folders on Drive:
-
-```text
-Our_Analysis/
-  00_documentation/
-  01_notebooks/
-    00_pilot_NYU08.ipynb
-    01_dataset_inventory.ipynb
-  02_session_metadata/
-    recovered_24_eligible_regions.csv
-  03_processed_data/
-  04_results/
-  05_figures/
-  06_manuscript/
-```
-
-- **Google Drive** contains the actively edited Colab notebooks, checkpoints and analysis data.
-- **GitHub** keeps versioned snapshots of notebooks, code, documentation and small summary tables.
-- **Google Colab** executes analysis. Save persistent outputs directly to Drive, not only under `/content`.
-- GitHub synchronization from Google Drive is **not yet automatic**. Commits must be explicitly made until a tested synchronization process is configured.
-- Large original source data remain outside GitHub in `Jan/Reanalysis/Behaviour`, `data_neurons` and `Code`, or on IBL servers.
-- `recovered_24_eligible_regions.csv` was reconstructed from a Colab execution log. It is a preliminary inclusion inventory, not a substitute for the per-insertion QC database.
-
-## Getting started
-
-1. Open the Drive copy of `Our_Analysis/01_notebooks/01_dataset_inventory.ipynb` in Colab.
-2. Mount Google Drive and load small saved CSV tables from `Our_Analysis/02_session_metadata/`.
-3. Save outputs and checkpoints to Drive as computations progress; periodically sync code to GitHub.
-
-## Reproducibility and attribution
-- All code and prose in this repository are written in English.
-- Original author datasets and code remain attributed to the original research team.
-- This repository documents independent analysis rather than ownership of the underlying recordings.
-- Commit history should reflect real contributions; identify collaborators and AI assistance where appropriate.
-
-## Getting started
-1. Open `notebooks/00_environment_and_data_access.ipynb` in Google Colab.
-2. Run environment checks and query public IBL metadata.
-3. Verify the session list before downloading any substantial datasets.
-
-## Citation
-Noel et al. (2025). *A common computational and neural anomaly across mouse models of autism*. *Nature Neuroscience*. https://doi.org/10.1038/s41593-025-01965-8
+Large raw Neuropixels recordings and heavy session caches remain in Google Drive; GitHub stores project code, small exported tables and tracked work from before the reorganization.
