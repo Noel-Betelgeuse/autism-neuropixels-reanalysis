@@ -1,0 +1,2 @@
+subject,genotype,eid,pid,cluster_id,region,first_trial,last_trial,start_s,end_s,displayed_spikes
+NYU-28,WT,e229abcd-7ac1-4ed6-85d1-34a32dc52467,f7e2696b-832a-42fb-a80d-3af4af07789c,220,MOs,1,8,116.41312245359255,147.42099653182652,789
