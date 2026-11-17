@@ -116,3 +116,34 @@ ab41e289-eacb-42a7-b34b-44cd76b5cea8,NYU-49,failed,0,0,Anatomical array length m
  The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
 d6a106d1-a0cf-4802-80b3-bb2300c3d5b7,NYU-49,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
  The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+d78ef5fc-25df-4e13-af15-eab43f5fa2d2,NYU-50,processed,30,8,
+3cf407d6-8a2e-45e3-a387-60676458bdc8,NYU-50,failed,0,0,Anatomical array length mismatch
+4e927807-2f4e-4a83-912f-9491a4c695e5,NYU-50,processed,30,4,
+5bbdbe0f-00e5-4553-a690-7edc3712696c,NYU-50,processed,30,6,
+4e123ebc-322c-474b-87e4-99b08fd28a9a,NYU-50,processed,30,3,
+4217c7c0-9357-4818-995c-2213d8854741,NYU-50,processed,30,14,
+a29defa0-3c3e-4017-817d-06a83d4ad726,NYU-50,failed,0,0,No target regions found
+2a11169a-2bab-4fbf-81c7-88f9af752224,NYU-50,processed,30,6,
+41c64258-b0eb-4dfc-a250-973d8535569c,NYU-52,processed,30,7,
+6d6e2fff-d200-4148-9c10-e6f63d1a4293,NYU-52,processed,30,5,
+7ccbc7ac-ac7e-4619-afc4-b82781966f73,NYU-52,processed,30,2,
+9b6ac8c9-5a92-41b1-a7ab-cb7d5de735f7,NYU-52,processed,30,6,
+53210982-a0f4-44fd-81a9-41012b52b0fb,NYU-52,processed,30,3,
+d02c7034-99dc-44b7-9877-2be32793ca68,NYU-52,processed,30,4,
+b9705a37-870e-40bd-95c4-f36fa345e777,NYU-52,processed,30,5,
+4b3b6ae9-4342-4a5c-8abb-3e5af2883099,NYU-52,failed,0,0,No target regions found
+1b66a9ad-72aa-4513-9a7c-39aebdcd65d8,NYU-56,failed,0,0,No target regions found
+e97c062d-d590-4bed-be0f-a14ba1f74577,NYU-56,processed,30,5,
+041f272e-acae-47c1-9d33-f34147fd648b,NYU-56,processed,30,2,
+a62a3475-7358-44e3-9eaa-d56a71b96f0f,NYU-56,processed,30,2,
+41ce1e1b-63d1-48c1-bb2c-54a0bbb44d46,NYU-56,processed,30,2,
+91dd46ac-e809-4b21-952a-ac9a856c0186,NYU-56,failed,0,0,No eligible 2-second quiet windows
+6dacd60c-ad45-4cb9-b443-a25f58775415,NYU-56,failed,0,0,No eligible 2-second quiet windows
+e08834f5-daa6-48be-9f76-e0f79f755aad,NYU-57,processed,30,6,
+c87c9d4b-3336-41a2-a983-a74f4444bce4,NYU-57,processed,30,6,
+b6c1d84a-9154-4b51-81b1-86a9c4dbc619,NYU-57,processed,30,2,
+f957e38e-c9a6-41ab-b06d-f445e9be61f2,NYU-57,processed,30,10,
+62917de8-7e32-4ed5-a241-3eb89c645c69,NYU-57,failed,0,0,No target regions found
+bf17f79b-e09e-4f3d-94e8-e3074f0d0ffe,NYU-57,processed,30,2,
+a22254bc-9827-4a8c-9da8-65732791f734,NYU-58,processed,30,2,
+e9a7b3a6-92c8-4326-9fa1-e366bd11bd2e,NYU-58,processed,30,8,
