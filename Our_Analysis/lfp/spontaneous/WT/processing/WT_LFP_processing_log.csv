@@ -1,0 +1,118 @@
+pid,subject,status,n_windows,n_regions,error
+9b25aad5-c832-45bc-8618-d8f58b7f8972,NYU-08,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+2a028ba5-0bdd-4d45-b57f-dd85097e1107,NYU-08,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+6fd1115e-058a-4dd3-8580-5ac908e9bf4d,NYU-08,failed,0,0,No LFP windows successfully loaded
+a6426c30-b11b-4ebe-8058-ef14a6f1d67f,NYU-08,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+2ab10951-bb5b-4eeb-a93f-f7795227a9c5,NYU-28,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+7d975fd3-6262-477a-8496-e2c38d9d119d,NYU-28,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+88c08ab5-c1d8-4c80-8477-b224d332fff2,NYU-28,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+e7cbd753-0bf2-4bb5-a91b-77d8d59ded4d,NYU-28,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+44cdb3db-e674-479b-8122-faac83215c1c,NYU-28,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+bd10d39b-5b76-4634-a9c5-50b5a9af6466,NYU-28,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+c7813408-1c8d-41e4-892f-309bdbb3124c,NYU-28,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+f7e2696b-832a-42fb-a80d-3af4af07789c,NYU-28,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+376067f9-272c-42e5-9349-e8d381cdcbe1,NYU-31,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+47449ed7-116b-4979-a887-5b0eac5256f8,NYU-31,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+1628d1c1-dca3-45c9-b71b-3e607f998e5c,NYU-31,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+b7685016-9d72-4aa8-a78b-f819883a5321,NYU-31,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+0d3d2522-635d-4463-a090-d9f841927588,NYU-31,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+33e8ead6-fb11-4377-8e66-278525292343,NYU-31,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+a384d11a-a56f-4f0f-a9b7-ad7dddffa94a,NYU-32,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+b0e22c9f-db37-4d0c-9a64-e0dc4739e329,NYU-32,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+ca71f020-0649-465f-bd6b-d514f435fde9,NYU-32,failed,0,0,Anatomical array length mismatch
+76bb43ae-5e3d-430a-9f95-ec8acedba056,NYU-32,failed,0,0,Anatomical array length mismatch
+49036686-2ae2-4bfa-aa17-18e198aaa26e,NYU-32,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+9d55affd-8621-42ad-8337-0e03fd76abeb,NYU-32,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+95549239-9bed-4eb3-9d41-6e3a000e17cf,NYU-38,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+cda7b27c-6930-44b7-ac3b-1838869c1fa4,NYU-38,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+b85c1337-c481-45dd-817e-288960ac829c,NYU-38,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+712a6f30-b261-4dae-820e-22a8d846dc53,NYU-38,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+1cdea672-c41d-42ec-b9c1-007d1742110d,NYU-41,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+45327180-3d09-4c77-b354-0eaa99493be1,NYU-41,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+ef4708ce-deef-425d-9d8b-d8ad80b5781e,NYU-41,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+82e827aa-e71e-478c-aa37-03f59ae05d25,NYU-41,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+f6089d9c-42f3-4cb7-bafe-4f368ff8dd8d,NYU-41,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+3bf3ce10-5e83-4663-8c52-aae35f6cfe89,NYU-41,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+8082a1aa-35db-4881-92dc-126e718a2c85,NYU-41,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+1b7b6146-bac6-4070-b63f-9413b84f3c5e,NYU-41,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+acdeefd9-9dae-4560-8d81-bdbbe9515976,NYU-42,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+7c83927f-c47b-440c-b48b-2c85e301e45b,NYU-42,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+8a315e72-6279-4e2a-ad8f-f194a645cf06,NYU-42,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+339e7299-174c-4201-af8c-2846a271d419,NYU-42,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+928e7881-73db-4810-a4c1-d04e7335cf43,NYU-43,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+b9ef37bf-8791-4dc8-a741-012c38033ea9,NYU-43,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+fb0fa5ac-3a56-4253-91cb-a4e3f9deb712,NYU-43,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+cca31963-6b28-420c-bc90-3d73c2db8c2f,NYU-43,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+a6f6f05e-35c0-4b6f-baa0-0808f37ae573,NYU-43,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+c56ea55e-c6ae-4b31-9d58-df63b4e0acc9,NYU-43,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+87c59299-4b70-4246-b211-ea46a40d2c1b,NYU-43,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+e3c37e47-192e-4d3b-bfae-914945692d9c,NYU-43,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+f97d26c5-1c88-47ba-a933-2f3bb52ccd42,NYU-44,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+6e7d1da6-8040-4e21-bf8e-1844aac972be,NYU-44,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+4e5e159e-ff10-46ae-a007-75c100033900,NYU-44,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+a1b7e254-b5b8-4f63-895b-52a45eb61b02,NYU-44,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+e940541b-c564-46cf-99c8-f2207cfdb79c,NYU-44,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+68630e18-5316-4a37-a1da-15c81ceced4e,NYU-44,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+ed31c899-8118-4c5e-8464-ebfc4573d16d,NYU-44,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+457809e6-c3fa-466f-a41d-b20be7161f73,NYU-44,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+edd8c08d-726b-46e7-980e-69043ab87e5f,NYU-49,failed,0,0,Anatomical array length mismatch
+864441cd-d1f1-4ebb-b095-7fc2e4cd3c08,NYU-49,failed,0,0,Anatomical array length mismatch
+ab41e289-eacb-42a7-b34b-44cd76b5cea8,NYU-49,failed,0,0,Anatomical array length mismatch
+0734b688-3e43-4332-8c96-b9af68b54b4d,NYU-49,failed,0,0,Anatomical array length mismatch
+8557337e-3050-4ead-b61c-286c604403fc,NYU-49,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+d6a106d1-a0cf-4802-80b3-bb2300c3d5b7,NYU-49,failed,0,0,"Dataset ""channels.brainLocationIds_ccf_2017.npy"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
