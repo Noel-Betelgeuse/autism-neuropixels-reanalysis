@@ -1,0 +1,37 @@
+pid,subject,status,n_windows,n_regions,error
+8aff8584-d2cd-49d8-a540-224a0fe5e8e7,SH002,processed,30,4,
+0c78d3c8-9d59-4cc5-b12b-a4fb0200062e,SH002,processed,30,6,
+78f4d56b-dd8a-4376-852b-49b451484ef2,SH002,processed,30,8,
+7d475dc7-a60e-4418-837d-fa9c43a91cff,SH002,processed,30,8,
+22e571d3-d755-47ee-bdb6-2b8518e6ae82,SH004,processed,30,4,
+09295528-644d-43ac-a7e4-0d90658ddef9,SH004,processed,30,8,
+8a915a67-34fa-4e01-94e7-4e5b558841e2,SH004,processed,30,6,
+bbc02017-0e62-4ccf-8725-124a12dc5f84,SH004,processed,30,5,
+b638fba9-554f-4e5a-83f2-5e32a2f1d80f,SH004,processed,30,6,
+fdd11650-23cc-48d0-a0e3-c1bbb76ef06e,SH006,processed,30,2,
+a6560993-25e6-49d0-9507-15fb4a83276d,SH006,processed,30,8,
+eb992196-92b4-48b3-b91b-d262065a1604,SH006,processed,30,5,
+b196529c-4949-416b-a2aa-1c40a716b01c,SH008,processed,30,11,
+2806b13b-422b-4c28-ba60-b4a41368af85,SH008,processed,30,8,
+fdd3467f-29d4-449d-aa18-b4aed4cda523,SH011,failed,0,0,"Dataset ""_ibl_trials.table.pqt"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+c1111521-10ed-4f15-875b-b5abed386821,SH012,failed,0,0,"Dataset ""_ibl_trials.table.pqt"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+d24ea4e3-d64c-438c-a6db-763914e9c71a,SH012,failed,0,0,"Dataset ""_ibl_trials.table.pqt"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+10bbb755-302b-4159-b4e4-9ffdcdbb20a8,SH012,failed,0,0,"Dataset ""_ibl_trials.table.pqt"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+e602f97c-2974-4316-8409-c64c21ea3239,SH012,failed,0,0,"Dataset ""_ibl_trials.table.pqt"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+dc118101-c270-4bc3-b9ec-10f99999f558,SH012,failed,0,0,"Dataset ""_ibl_trials.table.pqt"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+c31a8999-5482-4086-8bef-5b82800403a7,SH012,failed,0,0,"Dataset ""_ibl_trials.table.pqt"" not found 
+ The ALF object was not found.  This may occur if the object or namespace or incorrectly formatted e.g. the object ""_ibl_trials.intervals.npy"" would be found with the filters `object=""trials"", namespace=""ibl""` "
+f6cbb38a-cca5-4848-8971-7f14abb94479,SH013,processed,30,9,
+bd99aaeb-6be5-4701-bcaf-167ad717d1ed,SH013,failed,0,0,No eligible quiet windows
+640b9e95-8375-4ac9-b7f0-cb02471cac54,SH013,failed,0,0,Anatomy unavailable: No target anatomical regions; No target anatomical regions
+16fc4607-fae3-430b-a2a3-5b49214f73e4,SH013,processed,30,8,
+74ab20a1-ecc6-44a0-a0b4-890c3906b532,SH014,processed,30,7,
+6e4172ce-8da5-4508-8552-d0a5448b7cae,SH014,processed,30,3,
+26b3d1e4-6434-49df-a877-180bdcc29304,SH014,processed,30,4,
+5f0ce79f-6292-47d9-ba33-c4438be80395,SH014,processed,30,12,
